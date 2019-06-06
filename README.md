@@ -2,7 +2,9 @@
 画像2枚を比較して、差異があれば色がつくチェッカー。  
 きっと間違い探しが捗る。
 
-[DEMO](https://mattune.github.io/vue-image-diff-checker/)
+[DEMO](https://mattune.github.io/vue-image-diff-checker/)  
+
+[サンプルファイル](https://github.com/mattune/vue-image-diff-checker/tree/master/src/assets)
 
 
 ## 使用方法
